@@ -1,9 +1,7 @@
 # 인하게임개발 스터디
 
-<aside>
 ## ❓ 문제
 
-</aside>
 
 - 0주차 문제
     1. [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
@@ -13,10 +11,7 @@
 
 ---
 
-<aside>
 ## 🔔 안내사항
-
-</aside>
 
 1. 매주 월요일마다 4문제씩 나갑니다. 
     - 기한은 월요일 새로 문제 나가기 전까지 제출입니다
@@ -34,10 +29,7 @@
 
 ---
 
-<aside>
 ## 🤔 **제출 방법**
-
-</aside>
 
 ### 1. 리트코드 가입
 
@@ -56,10 +48,7 @@
 
 ---
 
-<aside>
 ## ℹ️ **commit 양식**
-
-</aside>
 
 [~주차 ~번문제] 문제 이름 / 소요시간 / 문제 링크
 

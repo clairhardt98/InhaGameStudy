@@ -1,7 +1,7 @@
 # 인하게임개발 스터디
 
 <aside>
-❓ **문제**
+## ❓ 문제
 
 </aside>
 
@@ -11,8 +11,10 @@
     3. [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
     4. [https://leetcode.com/problems/clone-graph/](https://leetcode.com/problems/clone-graph/)
 
+---
+
 <aside>
-🔔 안내사항
+## 🔔 안내사항
 
 </aside>
 
@@ -30,8 +32,10 @@
     - 시작한 김에 끝까지 함께 갑시다
 5. 스터디 문제는 카페에 따로 올릴 예정이니 굳이 억지로 스터디참여 안하셔도 됩니다
 
+---
+
 <aside>
-🤔 **제출 방법**
+## 🤔 **제출 방법**
 
 </aside>
 
@@ -50,8 +54,10 @@
 - 개인 이름(아이디) 폴더 생성해서 답안 코드 제출
 - 파일 이름은 상관 없는데 커밋 양식에 맞게만 제출 부탁드립니다
 
+---
+
 <aside>
-ℹ️ **commit 양식**
+## ℹ️ **commit 양식**
 
 </aside>
 

@@ -33,5 +33,5 @@ public:
         }
         arr[i]->next = nullptr;
     }
-
+	//
 };
